@@ -15,5 +15,7 @@ public class ActivaTest {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.get("https://www.bajajmall.in/");
 		Reporter.log("Deo milege is 60", true);
+		Reporter.log("Deo milege is 60", true);
+		Reporter.log("Deo milege is 60", true);
 	}
 }
